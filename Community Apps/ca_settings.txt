@@ -1,6 +1,6 @@
-Hide Deprecated Applications=
-This setting hides deprecated applications from the list of available apps Deprecated apps will still however display within the installed and previous apps sections=
-Hide Incompatible Applications=
+Hide Deprecated Applications=Göm utfasade applikationer
+This setting hides deprecated applications from the list of available apps Deprecated apps will still however display within the installed and previous apps sections=Den här inställningen gömmer utfasade applikationer från listan av tillgänliga applikationer. Utfasade applikationer kommer dock fortfarande visas bland installerade och tidigare applikationer
+Hide Incompatible Applications=Göm inkompatibla applikationer
 This setting will hide applications that are listed as being incompatible with your version of Unraid=
 Enable Reinstall Default=
 This option enables another button on the cards and popups which will allow you to reinstall an installed application using its default template values This option can be confusing at times, and is only generally used if you wish to install and have an application running twice simultaneously=
@@ -11,4 +11,4 @@ This setting allows CA to periodically scan your system and alert you to the pre
 1 Known malware and security vulnerabilities within applications=
 2 Critical security vulnerabilities within Unraid OS=
 3 Any installed applications which may seriously hinder the operation of your server=
-Support Thread=
+Support Thread=Supporttråd
