@@ -1,92 +1,92 @@
-A registration replacement key has been created for USB Flash GUID=
-About=
-alert=
-An email has been sent to=
-and=
-Anonymize diagnostics=
-Anytime=
-Archived Notifications=
-Are you sure=
-Array has been Reset=Array has been **Reset**
-Array must be Started to change permissions=Array must be **Started** to change permissions
-Array must be Stopped to change=Array must be **Stopped** to change
-Array=
-Author=
-Blacklisted USB Flash GUID=
-Branch=
-By using this software, you agree with our=
-Cache slots=
-Cannot connect to key-server=
-Check for Updates=
-click Install Key=click <i>Install Key</i>
-collecting diagnostic information this may take several minutes=collecting diagnostic information (this may take several minutes)
-Component=
+A registration replacement key has been created for USB Flash GUID=En ersättningsregistreringsnyckel har skapats för USB Flash GUID
+About=Om
+alert=varning
+An email has been sent to=Epost har skickats till
+and=och
+Anonymize diagnostics=Anonymisera diagnostik
+Anytime=När som helst
+Archived Notifications=Arkiverade notifieringar
+Are you sure=Är du säker
+Array has been Reset=Array har **återställts**
+Array must be Started to change permissions=Array måste vara **startad** för att ändra behörigheter
+Array must be Stopped to change=Array måste vara **stoppad** för att ändra
+Array=Array
+Author=Författare
+Blacklisted USB Flash GUID=Svartlistad USB Flash GUID
+Branch=Avdelning
+By using this software, you agree with our=Genom att använda denna mjukvara accepterar du
+Cache slots=Cache-platser
+Cannot connect to key-server=Kan inte ansluta till nyckel-server
+Check for Updates=Kolla efter uppdateringar
+click Install Key=Klicka <i>Installera nyckel</i>
+collecting diagnostic information this may take several minutes=samlar in diagnostisk infirmation. Det kan ta flera minuter.
+Component=Komponent
 Credits=
-Data slots=
-Delete notification=
-Developer=
-Diagnostics=
-Disks=
-Display Settings=
-End-User License Agreement=
-Enter URL of language pack XML file=
-Error accessing your physical USB Flash boot device=
-EULA=
-Event=
-Expiration=
-Extend=
-extended=
-Get Trial Key=
-Hardware Profile=
-Hide Details=
-If you do not receive an email, please check your spam or junk-email folder=
-Importance=
-Important=
-Install=
-Installed languages=
-Invalid Trial Installation=Invalid *Trial* Installation
-It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech=
-Key file URL=
-Language support added=
-Language support deleted=
-Language=
-Missing Key File=
-Missing Language=
-Network Settings=
-New Config=
-New Permissions=
-No personal information such as user names, passwords, or any other file contents is included in the hardware profile=No personal information such as user names, passwords, or any other file contents is included in the hardware profile
-normal=
-Only ZIP files are allowed=
+Data slots=Data-platser
+Delete notification=Radera notifikation
+Developer=Utvecklare
+Diagnostics=Diagnostik
+Disks=Diskar
+Display Settings=Visa inställningar
+End-User License Agreement=Slutanvändaravtal
+Enter URL of language pack XML file=Ange URL till språkpaketets XML-fil
+Error accessing your physical USB Flash boot device=Fel vid åtkomst till ditt fysiska USB-minne
+EULA=EULA
+Event=Händelse
+Expiration=Utgångstid
+Extend=Förläng
+extended=förlängt
+Get Trial Key=Skaffa provperiodsnyckel
+Hardware Profile=Hårdvaruprofil
+Hide Details=Göm detaljer
+If you do not receive an email, please check your spam or junk-email folder=Om du inte mottagit ett mail, kolla din skräppostmapp
+Importance=Viktighet
+Important=Viktigt
+Install=Installera
+Installed languages=Installerade språk
+Invalid Trial Installation=Felaktig *provinstallation*
+It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech=Ditt systems hårdvaruinformation kommer att samlas in, ta bort alla serienummer och säkert ladda upp det till LimeTech
+Key file URL=NyckelfilsURL
+Language support added=Språksstöd tillagt
+Language support deleted=Språkstöd raderat
+Language=Språk
+Missing Key File=Nyckelfil saknas
+Missing Language=Saknade språk
+Network Settings=Nätverksinställningar
+New Config=Ny inställning
+New Permissions=Nya behörigheter
+No personal information such as user names, passwords, or any other file contents is included in the hardware profile=Ingen personlig information som användarnamn, lösenord eller innehåll i filer inkluderas i hårdvaruprofilen
+normal=normal
+Only ZIP files are allowed=Endast zip-filer är tillåtna
 Page Map=
-Parity slots=
-Please check your=
-Please select a language before proceeding=
-Please=
-Preserve current assignments=
-previous=
-Privacy Policy=
-Processes=
-Purchase Key=
-Registered GUID=
-Registered on=
-Registered to=
-registering USB Flash GUID=
-Release has been withdrawn=
-Remove the installed language=
-Replaceable=
-Request Extension=
-Request Trial Extension=
-Restore=
-See=
-Select language file=
-Select language=
-Show Details=
-slots=
-Subject=
-System Devices=
+Parity slots=Parity-enheter
+Please check your=Vänligen kontrollera dina
+Please select a language before proceeding=Vänligen välj ett språk innan du går vidare
+Please=Vänligen
+Preserve current assignments=Bevara nuvarande tilldelning
+previous=föregående
+Privacy Policy=Privacypolicy
+Processes=Processer
+Purchase Key=Köp nyckel
+Registered GUID=Registrerat GUID
+Registered on=Registrerat den
+Registered to=Registrerad till
+registering USB Flash GUID=registerar USB Flash GUID
+Release has been withdrawn=Release har återtagits
+Remove the installed language=Ta bort det installerade språket
+Replaceable=Utbytbar
+Request Extension=Begär förlängning
+Request Trial Extension=Begär provförlängning
+Restore=Återställ
+See=Se
+Select language file=Välj språkfil
+Select language=Välj språk
+Show Details=Visa detaljer
+slots=enheter
+Subject=Ämne
+System Devices=Systemenheter
 System Update Check=
-Text=
+Text=Text
 Thank you for choosing Unraid OS=
 Thank you for registering USB Flash GUID=
 Thank you for trying Unraid OS=
@@ -118,7 +118,7 @@ warning=
 webGUI=
 When received, please paste the URL into the Key file URL box and=When received, please paste the URL into the <i>Key file</i> URL box and
 Wrong File Extension=
-You havent sent Limetech your hardware profile yet=You haven't sent Limetech your hardware profile yet
+You havent sent Limetech your hardware profile yet=You haven’t sent Limetech your hardware profile yet
 Your hardware profile was last submitted on=
 Your Trial key has expired=Your *Trial* key has expired
 Your Trial key requires an internet connection=Your *Trial* key requires an internet connection
@@ -136,7 +136,7 @@ No changes=
 PCI Devices and IOMMU Groups=
 Reboot to take effect=
 SCSI Devices=
-The below list doesnt not reflect the way IOMMU would naturally group devices=The below list doesn't not reflect the way IOMMU would naturally group devices
+The below list doesnt not reflect the way IOMMU would naturally group devices=The below list doesn’t not reflect the way IOMMU would naturally group devices
 This controller is bound to vfio, connected USB devices are not visible=
 This controller is bound to vfio, connected drives are not visible=
 To see natural IOMMU groups for your hardware, go to the VM Manager page and set the PCIe ACS override setting to Disabled=To see natural IOMMU groups for your hardware, go to the [VM Manager] page and set the **PCIe ACS override** setting to **Disabled**
@@ -183,13 +183,13 @@ to the system log.*
 :end
 
 :newconfig_plug:
-This is a utility to reset the array disk configuration so that all disks appear as "New" disks, as
+This is a utility to reset the array disk configuration so that all disks appear as ”New” disks, as
 if it were a fresh new server.
 
 This is useful when you have added or removed multiple drives and wish to rebuild parity based on
 the new configuration.
 
-Use the *'Preserve current assignments'* selection to populate the desired disk slots ***after*** the array has been reset. By default **no** disk slots are populated.
+Use the *’Preserve current assignments’* selection to populate the desired disk slots ***after*** the array has been reset. By default **no** disk slots are populated.
 
 **DO NOT USE THIS UTILITY THINKING IT WILL REBUILD A FAILED DRIVE** - it will have the opposite
 effect of making it ***impossible*** to rebuild an existing failed drive - you have been warned!
@@ -215,13 +215,13 @@ For read/write files:
   -rw-rw-rw-
 
 For readonly files:
-  -r--r--r--
+  -r—r—r—
 :end
 
 :newperms_3_plug:
 Clicking **Start** will open another window and start the background process.
 
-Closing the window before completion will terminate the background process - so don't do that. This process can take a long time if you have many files.
+Closing the window before completion will terminate the background process - so don’t do that. This process can take a long time if you have many files.
 
 Note that this tool may negatively affect any docker containers if you allow your appdata share to be included.
 :end
